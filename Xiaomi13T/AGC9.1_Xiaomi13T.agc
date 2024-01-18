@@ -56,6 +56,7 @@
     <string name="pref_manual_focus_near_key">0</string>
     <string name="dev_setting_filter_key"></string>
     <string name="br_key">0.093</string>
+    <string name="lib_sect_key">Off (as in library)</string>
     <string name="lib_temporal_radius_key">Off (as in library)</string>
     <string name="pref_slow4x_key">0</string>
     <string name="pref_r_hue_key">0</string>
@@ -119,6 +120,7 @@
     <string name="lib_gpu_wb_tint_key">0</string>
     <string name="pref_video_fps_vb_key">FPS_30</string>
     <string name="lib_max_frame_count_key"></string>
+    <string name="pref_camera_hdr_plus_override_key"></string>
     <string name="perf_has_run_first_education">1</string>
     <string name="lib_luma_dl_sabre_l4b_key">Off (as in library)</string>
     <string name="pref_lens_title_key"></string>
@@ -312,11 +314,12 @@
     <string name="lib_smoothing_temporal_key">Off (as in library)</string>
     <string name="pref_model_key">0</string>
     <string name="pref_slow4x_key_2">0</string>
-    <string name="info_version_key">V10.0 (b297a91f) 2024-01-10 12:57</string>
+    <string name="info_version_key">V11.0 (cfc2b398) 2024-01-17 19:13</string>
     <string name="pref_camera_picturesize_back_key">3968x2232</string>
     <string name="lib_luma_dh_sabre_l1_key">Off (as in library)</string>
     <string name="pref_camera_back_flashmode_key">ns</string>
     <string name="pref_social_app_org_telegram_messenger">1</string>
+    <string name="pref_lens_title_short_key"></string>
     <string name="lib_polysharp_radius_small_key">Off (as in library)</string>
     <string name="lib_fix_sabre_noise_key">Off (as in library)</string>
     <string name="lib_luma_noise_key"></string>
@@ -378,7 +381,7 @@
     <string name="black_level_1_key">64.0</string>
     <string name="pref_opmode_video_key">0</string>
     <string name="pref_has_set_social_share_apps">1</string>
-    <boolean name="pref_awb_switch_key" value="true" />
+    <boolean name="pref_awb_switch_key" value="false" />
     <string name="pref_upgrade_version">27</string>
     <string name="lib_sabre_sharp_tuning_details_l14_key"></string>
     <string name="lib_pref_awb_rg_coeff_key">1.0</string>
@@ -434,6 +437,7 @@
     <string name="pref_af_mode_back">0</string>
     <string name="lib_fix_shasta_merge_key">Off (as in library)</string>
     <string name="pref_camera_catcher_key">0</string>
+    <string name="lib_tone_key">Off (as in library)</string>
     <string name="lib_custom_lib_open_key">gcastartup</string>
     <string name="lib_exposure_darker_2_key">Off (as in library)</string>
     <string name="lib_luma_dm_sabre_l4_key">Off (as in library)</string>
@@ -512,7 +516,7 @@
     <string name="pref_exposure_control_key">1</string>
     <string name="lib_sabre_sharp_tuning_radius_l18_key"></string>
     <string name="pref_opmode_portrait_key">0</string>
-    <string name="pref_show_af_data_key">1</string>
+    <string name="pref_show_af_data_key">0</string>
     <string name="lib_sharp_distrib_rad_2_key">Off (as in library)</string>
     <string name="lib_sabre_sharp_tuning_radius_l10_key"></string>
     <string name="lib_sharp_legibility_key">Off (as in library)</string>
@@ -559,6 +563,7 @@
     <string name="lib_sabre_sharp_tuning_details_l4_key"></string>
     <string name="pref_watermark_bg_key">1</string>
     <string name="info_brand_key">Xiaomi</string>
+    <string name="lib_gamma_key">Off (as in library)</string>
     <string name="lib_compress_merged_dng_key">Off (as in library)</string>
     <string name="pref_micro_video_key">0</string>
     <string name="lib_noisemodelunblock_key">Off (as in library)</string>
